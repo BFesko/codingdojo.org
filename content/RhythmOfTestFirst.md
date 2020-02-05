@@ -9,7 +9,7 @@ aliases:
     -   Write UT for Particular [BabyStep](/BabySteps)
 -   Run it, it should fail
 -   If it is not failing - review the test it might be wrong
--   Written test should generate an interfaces
+-   Written test should generate an interface
 -   write an implementation until the test is green
 -   goto the next [BabyStep](/BabySteps)
 
